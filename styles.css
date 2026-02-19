@@ -1,0 +1,16 @@
+body {
+    font-family:Segoe UI , Arial, sans-serif;
+}
+
+.lg-gradient {
+    min-height: 100vh;
+    background: linear-gradient(90deg, #9af3ff 0%, #fad0c4 99%, #fad0c4 100%);
+}
+
+.card {
+    border-radius: 1rem;
+}
+
+#email, #password {
+    background-color: #fad0c4;
+}
